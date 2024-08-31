@@ -1,0 +1,606 @@
+* {
+    font-family: sans-serif;
+
+
+
+
+}
+
+.main {
+    display: flex;
+}
+
+.bigmain {
+    margin-top: -58px;
+    margin-left: 20px;
+}
+
+.futer>a {
+    color: #252641;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 400;
+
+
+}
+
+.futer {
+    margin-left: 600px;
+    display: flex;
+    gap: 70px;
+    margin-top: -20px;
+
+}
+
+.button>button {
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 100px;
+    display: flex;
+    margin-left: 150px;
+    background-color: orange;
+
+}
+
+.kichikbutton>button {
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 100px;
+    background-color: rgb(233, 236, 241);
+}
+
+.kichikbutton {
+
+    margin-top: -29px;
+}
+
+.yozuv {
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 700;
+    margin-top: 200px;
+    margin-left: 50px;
+
+}
+
+.pyozuv>p {
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 50px;
+    color: #252641;
+}
+
+.rasm>img {
+    width: 711px;
+    height: 692px;
+    margin-top: -400px;
+    margin-left: 700px;
+}
+
+.joha>button {
+    font-size: 30px;
+    width: 220px;
+    height: 80px;
+    top: 659px;
+    border-radius: 100px;
+    background-color: orange;
+}
+
+.joha {
+    margin-top: -250px;
+    margin-left: 30px;
+
+}
+
+.boshliq>span {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-left: -30px;
+
+}
+
+.boshliq {
+    display: flex;
+    margin-top: -120px;
+    margin-left: 230px;
+}
+
+.figmaikki>p {
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 400px;
+    margin-left: 450px;
+
+}
+
+.fimanirasmi>img {
+    margin-left: 60px;
+}
+
+.f-box {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.f-span {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43.2px;
+    text-align: center;
+}
+
+.f-figma>span {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+
+
+}
+
+.f-figma2>span {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+
+
+}
+
+.f-figma3>span {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+
+
+}
+
+.fimalr {
+    display: flex;
+    gap: 300px;
+    text-align: center;
+    justify-content: center;
+}
+
+.b-yoz>span {
+
+    font-size: 44px;
+    font-weight: 600;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 600px;
+
+
+}
+
+.b-kichik>p {
+    margin-left: 450px;
+}
+
+.b-rasm>img {
+    border-radius: 20px;
+    margin-left: 270px;
+}
+
+.y-div {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+
+.y-span {
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+
+
+}
+
+.y-rasm {
+    margin-left: 800px;
+    margin-top: -240px;
+
+}
+
+.j-div {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 600px;
+
+}
+
+.j-yoz {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: -300px;
+}
+
+.j-rasm {
+    margin-left: 150px;
+}
+
+.o-div {
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+.o-icon {
+    margin-left: 750px;
+    margin-top: 20px;
+}
+
+.jim {
+    margin-left: 800px;
+    margin-top: -152px;
+}
+
+.her {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+
+.her-yoz {
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 100px;
+
+}
+
+.her-rasm {
+    margin-left: 700px;
+    width: 637.2px;
+    height: 611px;
+    margin-top: -400px;
+
+}
+
+.button>button {
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 100px;
+    display: flex;
+    margin-left: 150px;
+    background-color: orange;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.button>button:hover {
+    background-color: darkorange;
+    transform: scale(1.05);
+}
+
+.kichikbutton>button {
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 100px;
+    background-color: rgb(115, 136, 180);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.kichikbutton>button:hover {
+    background-color: rgb(85, 105, 150);
+    transform: scale(1.05);
+}
+
+.joha>button {
+    font-size: 30px;
+    width: 220px;
+    height: 80px;
+    border-radius: 100px;
+    background-color: orange;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.joha>button:hover {
+    background-color: darkorange;
+    transform: scale(1.05);
+}
+
+
+.your>img {
+    width: 617px;
+    height: 651.49px;
+    margin-top: 200px;
+
+}
+
+.rembo {
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 800px;
+    margin-top: -500px;
+
+}
+
+.joharembo {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.pepsi {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 500px;
+    margin-left: 70px;
+
+}
+
+.coco-cola {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.coco-rasm {
+    width: 808.32px;
+    height: 560px;
+    margin-left: 550px;
+    margin-top: -350px;
+}
+
+.fanta {
+    margin-top: 200px;
+    width: 755.24px;
+    height: 499px;
+}
+
+.sprit {
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 900px;
+    margin-top: -400px;
+}
+
+.spake {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.true>button {
+    border: 1px solid orange;
+    border-radius: 100px;
+    color: rgb(33, 22, 2);
+    margin-left: 550px;
+    margin-top: 300px;
+    width: 280px;
+    height: 80px;
+    font-size: 24px;
+    font-weight: 400;
+    background: rgb(238, 156, 3);
+
+}
+
+.true>button {
+    border: 1px solid orange;
+    border-radius: 100px;
+    color: rgb(33, 22, 2);
+    margin-left: 550px;
+    margin-top: 300px;
+    width: 280px;
+    height: 80px;
+    font-size: 24px;
+    font-weight: 400;
+    background: rgb(238, 156, 3);
+    transition: background 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+.true>button:hover {
+    background: orange;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.lite {
+    margin-top: 100px;
+}
+
+.lite2 {
+    gap: 50px;
+}
+
+/* .inter {} */
+
+.error {
+    font-family: Nunito Sans;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 700px;
+    margin-top: -300px;
+
+}
+
+.kimyo {
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+.mishka>button {
+    width: 280px;
+    height: 80px;
+    border: 1px solid #F48C06;
+    font-size: 22px;
+    border-radius: 100px;
+    margin-left: 700px;
+    margin-top: 50px;
+    background-color: aliceblue;
+
+}
+
+.mishka>button {
+    width: 280px;
+    height: 80px;
+    border: 1px solid #F48C06;
+    font-size: 22px;
+    border-radius: 100px;
+    margin-left: 700px;
+    margin-top: 50px;
+    background-color: aliceblue;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+.mishka>button:hover {
+    background-color: #F48C06;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.poco {
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 100px;
+
+
+}
+
+.join-er {
+    font-size: 26px;
+    font-weight: 400;
+
+
+}
+
+.glibing>button {
+    width: 280px;
+    height: 80px;
+    border: 1px solid #F48C06;
+    font-size: 22px;
+    border-radius: 100px;
+    margin-top: 40px;
+    background-color: aliceblue;
+
+}
+
+.glibing>button {
+    width: 280px;
+    height: 80px;
+    border: 1px solid #F48C06;
+    font-size: 22px;
+    border-radius: 100px;
+    margin-top: 40px;
+    background-color: aliceblue;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+.glibing>button:hover {
+    background-color: #F48C06;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.femme {
+    margin-left: 600px;
+    margin-top: -450px;
+}
+
+.jimin>img {
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+
+.jimin>img {
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -300px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.jimin>img:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.heppiy {
+    margin-top: 150px;
+    margin-left: 450px;
+}
+.pizza{
+font-size: 24px;
+font-weight: 400;
+line-height: 43.2px;
+text-align: center;
+
+}
+.avgust{
+    font-family: Poppins;
+font-size: 22px;
+font-weight: 500;
+margin-left: 950px;
+margin-top: -250px;
+
+}
+.kimchi >img{
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.NEWS>button{
+    width: 130px;
+height: 40px;
+border: 1px solid #F48C06;
+border-radius: 100px;
+background-color: #F48C06 ;
+margin-top: 30px;
+}
+.NEWS>button {
+    width: 180px;
+    height: 50px;
+    border: 1px solid #F48C06;
+    font-size: 22px;
+    border-radius: 100px;
+    margin-top: 40px;
+    background-color: aliceblue;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+}
+
+.NEWS>button:hover {
+    background-color: #F48C06;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.NEWS{
+    margin-top: 130px;
+}
+.zoom>img{
+    width: 280px;
+    height: 200px;
+   position: absolute;
+   margin-top: -270px;
+    margin-left: 600px;
+    
+}
+.avgust2{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+
+
+}
+
+
